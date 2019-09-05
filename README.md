@@ -1,1 +1,1 @@
-"A repository for holding my personal CV"
+A repository for holding my personal CV
